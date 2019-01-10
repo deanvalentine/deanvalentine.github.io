@@ -3,17 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://deans.page/posts/about/</loc>
+    <lastmod>2019-01-10T23:12:56+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://deans.page/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://deans.page/</loc>
+    <lastmod>2019-01-10T23:12:56+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://deans.page/posts/</loc>
+    <lastmod>2019-01-10T23:12:56+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://deans.page/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://deans.page/tags/untagged/</loc>
+    <lastmod>2019-01-10T23:12:56+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Dean M. Valentine</title>
+		<link>https://deans.page/posts/</link>
+		<description>Recent content in Posts on Dean M. Valentine</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Thu, 10 Jan 2019 23:12:56 +0000</lastBuildDate>
+		<atom:link href="https://deans.page/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>About</title>
+			<link>https://deans.page/posts/about/</link>
+			<pubDate>Thu, 10 Jan 2019 23:12:56 +0000</pubDate>
+			
+			<guid>https://deans.page/posts/about/</guid>
+			<description>Test</description>
+			<content type="html"><![CDATA[<p>Test</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
